@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bc50d74-d229-4228-823d-7999de10a8d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/AlgoLearning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/QueueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/RemoveDuplicatesII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DailyPrac/LongestCommonSub1143.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/RemoveFixedCharacter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/AlgoLearning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/AlgoLearning.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/BinarySearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/BinarySearchTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/RemoveDuplicates.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,17 +40,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Application.QueueTest">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="JavaTest" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RemoveFixedCharacter">
     <configuration name="QueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.QueueTest" />
       <module name="JavaTest" />
@@ -92,6 +80,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RemoveFixedCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.RemoveFixedCharacter" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="helloworld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.helloworld" />
       <module name="JavaTest" />
@@ -107,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveFixedCharacter" />
         <item itemvalue="Application.QueueTest" />
         <item itemvalue="Application.RemoveDuplicates" />
         <item itemvalue="Application.helloworld" />
         <item itemvalue="Application.RandomSeq" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -157,22 +158,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="763" y="346" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587645205369" />
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1587907169136">
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1588226562918">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587907169136" />
-    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1587907169136">
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588226562918" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1588226562917">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587907169136" />
-    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1587907169136">
+    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588226562917" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1588226562917">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587907169136" />
-    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1587907169136">
+    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588226562917" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1588226562917">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587907169136" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588226562917" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1587904937123">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -193,10 +194,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587645661122" />
-    <state x="668" y="349" width="835" height="342" key="com.intellij.ide.util.TipDialog" timestamp="1587943024551">
+    <state x="668" y="349" width="835" height="342" key="com.intellij.ide.util.TipDialog" timestamp="1588223058808">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="668" y="349" width="835" height="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587943024551" />
+    <state x="668" y="349" width="835" height="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588223058808" />
     <state x="668" y="349" key="com.intellij.ide.util.TipDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583320373666" />
     <state x="934" y="181" width="586" height="732" key="find.popup" timestamp="1587631001807">
       <screen x="0" y="0" width="1920" height="1040" />
