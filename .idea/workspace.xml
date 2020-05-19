@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bc50d74-d229-4228-823d-7999de10a8d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/CousinsInBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/FirstUniqueCharacterInAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/JewelsAndStones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/NumberComplement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/FindAllAnagramsInaString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/InsertionSortList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/OddEvenLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/company/RemoveFixedCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/com/company/RemoveFixedCharacter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/CousinsInBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/CousinsInBinaryTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +38,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RunManager" selected="Application.FirstUniqueCharacterInAString">
     <configuration name="FirstUniqueCharacterInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -195,14 +194,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587904937123" />
-    <state x="463" y="166" key="SettingsEditor" timestamp="1587645661122">
+    <state x="806" y="258" key="SettingsEditor" timestamp="1589627807649">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="463" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587645661122" />
-    <state x="668" y="349" width="835" height="342" key="com.intellij.ide.util.TipDialog" timestamp="1589378555916">
+    <state x="806" y="258" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589627807649" />
+    <state x="668" y="349" width="835" height="342" key="com.intellij.ide.util.TipDialog" timestamp="1589823287097">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="668" y="349" width="835" height="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589378555916" />
+    <state x="668" y="349" width="835" height="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589823287097" />
     <state x="668" y="349" key="com.intellij.ide.util.TipDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583320373666" />
     <state x="934" y="181" width="586" height="732" key="find.popup" timestamp="1587631001807">
       <screen x="0" y="0" width="1920" height="1040" />
