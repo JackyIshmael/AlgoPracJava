@@ -15,7 +15,7 @@ public class StockSpanner {
 
     }
 
-    public int next(int price) {
+    public void next(int price) {
 
     }
 }
