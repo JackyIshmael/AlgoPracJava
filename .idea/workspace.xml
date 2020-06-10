@@ -2,11 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bc50d74-d229-4228-823d-7999de10a8d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CodingInterView/CuttingRope_014.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/HighFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algohelper/Example.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/InsertionSortList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/InsertionSortList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/StockSpanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/StockSpanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/AlgoLearning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DailyPrac/AlgoLearning.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/BinarySearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DailyPrac/BinarySearchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/CousinsInBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DailyPrac/CousinsInBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/FindAllAnagramsInaString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DailyPrac/FindAllAnagramsInaString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/FirstUniqueCharacterInAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DailyPrac/FirstUniqueCharacterInAString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/HighFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DailyPrac/HighFive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/InsertionSortList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DailyPrac/InsertionSortList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/JewelsAndStones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DailyPrac/JewelsAndStones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DailyPrac/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/MinimumWindowSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DailyPrac/MinimumWindowSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/NumberComplement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DailyPrac/NumberComplement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/OddEvenLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DailyPrac/OddEvenLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/PermutationInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DailyPrac/PermutationInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/QueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DailyPrac/QueueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/RandomSeq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DailyPrac/RandomSeq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DailyPrac/RemoveDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/RemoveDuplicatesII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DailyPrac/RemoveDuplicatesII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/RemoveFixedCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DailyPrac/RemoveFixedCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/StockSpanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DailyPrac/StockSpanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/helloworld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DailyPrac/helloworld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +57,14 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="DailyPrac" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.HighFive">
     <configuration name="FirstUniqueCharacterInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.FirstUniqueCharacterInAString" />
+      <option name="MAIN_CLASS_NAME" value="DailyPrac.FirstUniqueCharacterInAString" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -55,11 +77,11 @@
       </method>
     </configuration>
     <configuration name="HighFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.HighFive" />
+      <option name="MAIN_CLASS_NAME" value="DailyPrac.HighFive" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.*" />
+          <option name="PATTERN" value="DailyPrac.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,7 +90,7 @@
       </method>
     </configuration>
     <configuration name="JewelsAndStones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.JewelsAndStones" />
+      <option name="MAIN_CLASS_NAME" value="DailyPrac.JewelsAndStones" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -81,7 +103,7 @@
       </method>
     </configuration>
     <configuration name="NumberComplement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.NumberComplement" />
+      <option name="MAIN_CLASS_NAME" value="DailyPrac.NumberComplement" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -94,7 +116,7 @@
       </method>
     </configuration>
     <configuration name="RemoveFixedCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.RemoveFixedCharacter" />
+      <option name="MAIN_CLASS_NAME" value="DailyPrac.RemoveFixedCharacter" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -150,10 +172,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591635065200" />
-    <state x="761" y="412" width="398" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1588425405898">
+    <state x="761" y="412" width="398" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1591698038885">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="761" y="412" width="398" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1588425405898" />
+    <state x="761" y="412" width="398" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1591698038885" />
     <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587902763722">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

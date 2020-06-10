@@ -1,7 +1,5 @@
-package com.company;
-import edu.princeton.cs.algs4.Queue;
+package DailyPrac;
 
-import java.util.NoSuchElementException;
 import java.util.Scanner;
 
 public class QueueTest {

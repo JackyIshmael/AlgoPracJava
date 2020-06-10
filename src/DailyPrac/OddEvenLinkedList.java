@@ -1,4 +1,4 @@
-package com.company;
+package DailyPrac;
 
 /**
  * @program: JavaTest

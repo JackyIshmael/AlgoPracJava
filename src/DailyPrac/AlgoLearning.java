@@ -1,4 +1,4 @@
-package com.company;
+package DailyPrac;
 
 import edu.princeton.cs.algs4.StdIn;
 

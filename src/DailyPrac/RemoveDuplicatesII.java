@@ -1,4 +1,4 @@
-package com.company;
+package DailyPrac;
 /****
  * 80. Remove Duplicates from Sorted Array II
  * Medium

@@ -1,4 +1,4 @@
-package com.company;
+package DailyPrac;
 
 import java.awt.desktop.SystemEventListener;
 

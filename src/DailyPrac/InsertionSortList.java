@@ -1,4 +1,4 @@
-package com.company;
+package DailyPrac;
 
 import java.util.*;
 import java.lang.*;

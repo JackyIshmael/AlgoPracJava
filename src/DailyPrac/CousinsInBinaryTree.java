@@ -1,4 +1,4 @@
-package com.company;
+package DailyPrac;
 
 import com.sun.source.tree.Tree;
 
