@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bc50d74-d229-4228-823d-7999de10a8d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DailyPrac/SearchInsertPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DailyPrac/FinalPricesWithASpecialDiscountInAShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DailyPrac/FindTwoNonoverlappingSubarraysEachWithTargetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DailyPrac/ImplementStrStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DailyPrac/SortColors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DailyPrac/SubrectangleQueries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewCoder/ABSUM2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewCoder/ABSUM3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewCoder/ABSUM4_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewCoder/ABSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewCoder/Ques1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewCoder/Ques2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewCoder/ReadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewCoder/StringSortA.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/DailyPrac/IsSubsequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/DailyPrac/IsSubsequence.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +55,13 @@
       <recent name="DailyPrac" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IsSubsequence">
-    <configuration name="FirstUniqueCharacterInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DailyPrac.FirstUniqueCharacterInAString" />
+  <component name="RunManager" selected="Application.ImplementStrStr">
+    <configuration name="ABSUM4_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewCoder.ABSUM4_Array" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodingInterView.*" />
+          <option name="PATTERN" value="NewCoder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HighFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DailyPrac.HighFive" />
+    <configuration name="ImplementStrStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DailyPrac.ImplementStrStr" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -69,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DailyPrac.IsSubsequence" />
+    <configuration name="Ques1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewCoder.Ques1" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DailyPrac.*" />
+          <option name="PATTERN" value="NewCoder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JewelsAndStones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DailyPrac.JewelsAndStones" />
+    <configuration name="Ques2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewCoder.Ques2" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodingInterView.*" />
+          <option name="PATTERN" value="NewCoder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberComplement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DailyPrac.NumberComplement" />
+    <configuration name="StringSortA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewCoder.StringSortA" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodingInterView.*" />
+          <option name="PATTERN" value="NewCoder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IsSubsequence" />
-        <item itemvalue="Application.HighFive" />
-        <item itemvalue="Application.FirstUniqueCharacterInAString" />
-        <item itemvalue="Application.NumberComplement" />
-        <item itemvalue="Application.JewelsAndStones" />
+        <item itemvalue="Application.ImplementStrStr" />
+        <item itemvalue="Application.Ques2" />
+        <item itemvalue="Application.Ques1" />
+        <item itemvalue="Application.StringSortA" />
+        <item itemvalue="Application.ABSUM4_Array" />
       </list>
     </recent_temporary>
   </component>
@@ -164,47 +177,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="763" y="346" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587645205369" />
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1591768751062">
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1592472636614">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591768751062" />
-    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1591768751062">
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592472636614" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1592472636614">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591768751062" />
-    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1591768751062">
+    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592472636614" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1592472636614">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591768751062" />
-    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1591768751062">
+    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592472636614" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1592472636614">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591768751062" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1587904937123">
+    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592472636614" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1592472607473">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587904937123" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1587904937123">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592472607473" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1592472607473">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587904937123" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1587904937123">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592472607473" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1592472607473">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587904937123" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1587904937123">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592472607473" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1592472607473">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587904937123" />
-    <state x="806" y="258" key="SettingsEditor" timestamp="1589627807649">
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592472607473" />
+    <state x="806" y="258" key="SettingsEditor" timestamp="1592409959327">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="806" y="258" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589627807649" />
-    <state x="668" y="349" width="835" height="342" key="com.intellij.ide.util.TipDialog" timestamp="1591765317147">
+    <state x="806" y="258" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592409959327" />
+    <state x="668" y="349" width="835" height="342" key="com.intellij.ide.util.TipDialog" timestamp="1592440807516">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="668" y="349" width="835" height="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591765317147" />
-    <state x="668" y="349" key="com.intellij.ide.util.TipDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583320373666" />
+    <state x="668" y="349" width="835" height="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592440807516" />
     <state x="771" y="440" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591768276740">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -217,14 +229,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="342" y="147" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1587645197353" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1588602843424">
+    <state x="616" y="240" key="run.anything.popup" timestamp="1592444480247">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588602843424" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1590317329767">
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592444480247" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1592471704636">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590317329767" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592471704636" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JavaTest$RandomSeq.ic" NAME="RandomSeq Coverage Results" MODIFIED="1587632516451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
