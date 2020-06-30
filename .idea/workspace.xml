@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bc50d74-d229-4228-823d-7999de10a8d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DailyPrac/FindtheDuplicateNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DailyPrac/LargestDivisibleSubset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DailyPrac/RemoveDuplicatesfromSortedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DailyPrac/SumRoottoLeafNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algohelper/StringPlay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algohelper/TwoXTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/DailyPrac/ImplementStrStr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/DailyPrac/ImplementStrStr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DailyPrac/RemoveDuplicatesfromSortedListII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DailyPrac/RemoveDuplicatesfromSortedListII.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
