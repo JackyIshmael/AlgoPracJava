@@ -16,7 +16,7 @@ public class StringPlay implements Comparable<StringPlay>
 {
     @Override
     public int compareTo(StringPlay o){
-
+        return -1;
     }
 
     public static void main(String[] args){

@@ -2,8 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bc50d74-d229-4228-823d-7999de10a8d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/DailyPrac/CountGoodTriplets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DailyPrac/FindTheWinnerOfAnArrayGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DailyPrac/InvertBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DailyPrac/MinimumStepToReachOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DailyPrac/ValidParth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewCoder/ALI1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewCoder/ALI2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewCoder/HammingWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewCoder/IsPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewCoder/Question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewCoder/Question2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewCoder/Question2Version.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewCoder/Question3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewCoder/SHOPEEQ1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewCoder/SHOPEEQ2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewCoder/SHOPEEQ3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewCoder/huaweiQ1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algohelper/QuickSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DailyPrac/RemoveDuplicatesfromSortedListII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DailyPrac/RemoveDuplicatesfromSortedListII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/NewCoder/StringSortA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/NewCoder/StringSortA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/algohelper/StringPlay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/algohelper/StringPlay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NewCoder/StringSortA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NewCoder/StringSortA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algohelper/StringPlay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algohelper/StringPlay.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +67,22 @@
       <recent name="DailyPrac" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringPlay">
-    <configuration name="ImplementStrStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DailyPrac.ImplementStrStr" />
+  <component name="RunManager" selected="Application.FindTheWinnerOfAnArrayGame">
+    <configuration name="ALI2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewCoder.ALI2" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NewCoder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountGoodTriplets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DailyPrac.CountGoodTriplets" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -60,8 +94,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ques1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NewCoder.Ques1" />
+    <configuration name="FindTheWinnerOfAnArrayGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DailyPrac.FindTheWinnerOfAnArrayGame" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DailyPrac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HammingWeight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewCoder.HammingWeight" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -73,34 +120,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ques2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NewCoder.Ques2" />
-      <module name="JavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="NewCoder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringPlay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algohelper.StringPlay" />
-      <module name="JavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algohelper.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringSortA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NewCoder.StringSortA" />
+    <configuration name="IsPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewCoder.IsPrime" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringPlay" />
-        <item itemvalue="Application.ImplementStrStr" />
-        <item itemvalue="Application.Ques2" />
-        <item itemvalue="Application.Ques1" />
-        <item itemvalue="Application.StringSortA" />
+        <item itemvalue="Application.FindTheWinnerOfAnArrayGame" />
+        <item itemvalue="Application.CountGoodTriplets" />
+        <item itemvalue="Application.HammingWeight" />
+        <item itemvalue="Application.IsPrime" />
+        <item itemvalue="Application.ALI2" />
       </list>
     </recent_temporary>
   </component>
@@ -148,18 +169,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="182" key="#Notifications" timestamp="1585820305559">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="182" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1585820305559" />
     <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591635065200">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591635065200" />
-    <state x="761" y="412" width="398" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1591698038885">
+    <state x="761" y="412" width="398" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1594552347826">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="761" y="412" width="398" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1591698038885" />
+    <state x="761" y="412" width="398" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1594552347826" />
     <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587902763722">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -168,46 +185,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="763" y="346" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593341164252" />
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1592472636614">
+    <state width="1877" height="167" key="GridCell.Tab.0.bottom" timestamp="1596348390742">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592472636614" />
-    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1592472636614">
+    <state width="1877" height="167" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596348390742" />
+    <state width="1877" height="167" key="GridCell.Tab.0.center" timestamp="1596348390742">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592472636614" />
-    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1592472636614">
+    <state width="1877" height="167" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596348390742" />
+    <state width="1877" height="167" key="GridCell.Tab.0.left" timestamp="1596348390742">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592472636614" />
-    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1592472636614">
+    <state width="1877" height="167" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596348390742" />
+    <state width="1877" height="167" key="GridCell.Tab.0.right" timestamp="1596348390742">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592472636614" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1592472607473">
+    <state width="1877" height="167" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596348390742" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1596342964438">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592472607473" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1592472607473">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596342964438" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1596342964437">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592472607473" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1592472607473">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596342964437" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1596342964437">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592472607473" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1592472607473">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596342964437" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1596342964438">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592472607473" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596342964438" />
     <state x="559" y="197" width="992" height="708" key="SettingsEditor" timestamp="1593341347936">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="559" y="197" width="992" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1593341347936" />
-    <state x="668" y="349" width="835" height="342" key="com.intellij.ide.util.TipDialog" timestamp="1593536117524">
+    <state x="668" y="349" width="835" height="342" key="com.intellij.ide.util.TipDialog" timestamp="1596339432040">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="668" y="349" width="835" height="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593536117524" />
+    <state x="668" y="349" width="835" height="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596339432040" />
     <state x="1297" y="704" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1593340219832">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -216,22 +233,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="771" y="440" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591768276740" />
-    <state x="934" y="181" width="586" height="732" key="find.popup" timestamp="1587631001807">
+    <state x="616" y="240" key="run.anything.popup" timestamp="1596342938231">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="934" y="181" width="586" height="732" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587631001807" />
-    <state x="342" y="147" key="new project wizard" timestamp="1587645197353">
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1596342938231" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1594826358911">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="342" y="147" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1587645197353" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1592754075780">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592754075780" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1592750815552">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592750815552" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594826358911" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JavaTest$RandomSeq.ic" NAME="RandomSeq Coverage Results" MODIFIED="1587632516451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
