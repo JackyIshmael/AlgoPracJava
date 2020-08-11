@@ -38,9 +38,16 @@ public class FindTheWinnerOfAnArrayGame {
         }
         return maxvalue;
     }
-/*
+//
+
+
+// 下面的方法其实已经，保证了182 / 185 个通过测试用例
+
+    /*
     public static int getWinner(int[] arr, int k) {
         int max=0;
+        k = Math.min(arr.length - 1, k);// 最多比较次数不超过数组长度
+
         for (int i = 0; i < arr.length; i++) {
 
             if (arr[i] > max) {

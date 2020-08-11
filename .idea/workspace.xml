@@ -2,29 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bc50d74-d229-4228-823d-7999de10a8d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DailyPrac/CountGoodTriplets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DailyPrac/FindTheWinnerOfAnArrayGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DailyPrac/InvertBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DailyPrac/MinimumStepToReachOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DailyPrac/ValidParth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewCoder/ALI1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewCoder/ALI2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewCoder/HammingWeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewCoder/IsPrime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewCoder/Question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewCoder/Question2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewCoder/Question2Version.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewCoder/Question3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewCoder/SHOPEEQ1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewCoder/SHOPEEQ2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewCoder/SHOPEEQ3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewCoder/huaweiQ1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algohelper/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DailyPrac/AddStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DailyPrac/BinaryTreeLevelOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DailyPrac/BinaryTreeZigzagLevelOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DailyPrac/HammingCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DailyPrac/LowestCommonAncestoriofABinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewCoder/Meituan1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewCoder/Meituan2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewCoder/Meituan4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewCoder/Netease1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewCoder/Netease2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewCoder/Netease3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewCoder/Pinduoduo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewCoder/Pinduoduo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewCoder/Pinduoduo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewCoder/testoutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algohelper/MuiltiThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/NewCoder/StringSortA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/NewCoder/StringSortA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/algohelper/StringPlay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/algohelper/StringPlay.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NewCoder/StringSortA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NewCoder/StringSortA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algohelper/StringPlay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algohelper/StringPlay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/DailyPrac/FindTheWinnerOfAnArrayGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/DailyPrac/FindTheWinnerOfAnArrayGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DailyPrac/FindTheWinnerOfAnArrayGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DailyPrac/FindTheWinnerOfAnArrayGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +30,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin File" />
         <option value="Class" />
       </list>
     </option>
@@ -66,10 +63,13 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="DailyPrac" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="NewCoder" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.FindTheWinnerOfAnArrayGame">
-    <configuration name="ALI2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NewCoder.ALI2" />
+  <component name="RunManager" selected="Application.MuiltiThread">
+    <configuration name="Meituan1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewCoder.Meituan1" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -81,34 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountGoodTriplets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DailyPrac.CountGoodTriplets" />
-      <module name="JavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DailyPrac.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindTheWinnerOfAnArrayGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DailyPrac.FindTheWinnerOfAnArrayGame" />
-      <module name="JavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DailyPrac.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HammingWeight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NewCoder.HammingWeight" />
+    <configuration name="Meituan2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewCoder.Meituan2" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -120,8 +94,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NewCoder.IsPrime" />
+    <configuration name="Meituan4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewCoder.Meituan4" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NewCoder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MuiltiThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algohelper.MuiltiThread" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algohelper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Netease3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewCoder.Netease3" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -135,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindTheWinnerOfAnArrayGame" />
-        <item itemvalue="Application.CountGoodTriplets" />
-        <item itemvalue="Application.HammingWeight" />
-        <item itemvalue="Application.IsPrime" />
-        <item itemvalue="Application.ALI2" />
+        <item itemvalue="Application.MuiltiThread" />
+        <item itemvalue="Application.Meituan4" />
+        <item itemvalue="Application.Meituan2" />
+        <item itemvalue="Application.Meituan1" />
+        <item itemvalue="Application.Netease3" />
       </list>
     </recent_temporary>
   </component>
@@ -177,54 +177,50 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="761" y="412" width="398" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1594552347826" />
-    <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587902763722">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587902763722" />
     <state x="763" y="346" key="FileChooserDialogImpl" timestamp="1593341164252">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="763" y="346" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593341164252" />
-    <state width="1877" height="167" key="GridCell.Tab.0.bottom" timestamp="1596348390742">
+    <state width="1877" height="166" key="GridCell.Tab.0.bottom" timestamp="1597051537911">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="167" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596348390742" />
-    <state width="1877" height="167" key="GridCell.Tab.0.center" timestamp="1596348390742">
+    <state width="1877" height="166" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597051537911" />
+    <state width="1877" height="166" key="GridCell.Tab.0.center" timestamp="1597051537910">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="167" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596348390742" />
-    <state width="1877" height="167" key="GridCell.Tab.0.left" timestamp="1596348390742">
+    <state width="1877" height="166" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597051537910" />
+    <state width="1877" height="166" key="GridCell.Tab.0.left" timestamp="1597051537910">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="167" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596348390742" />
-    <state width="1877" height="167" key="GridCell.Tab.0.right" timestamp="1596348390742">
+    <state width="1877" height="166" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597051537910" />
+    <state width="1877" height="166" key="GridCell.Tab.0.right" timestamp="1597051537910">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="167" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596348390742" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1596342964438">
+    <state width="1877" height="166" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597051537910" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1596443616519">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596342964438" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1596342964437">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596443616519" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1596443616519">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596342964437" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1596342964437">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596443616519" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1596443616519">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596342964437" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1596342964438">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596443616519" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1596443616519">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596342964438" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596443616519" />
     <state x="559" y="197" width="992" height="708" key="SettingsEditor" timestamp="1593341347936">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="559" y="197" width="992" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1593341347936" />
-    <state x="668" y="349" width="835" height="342" key="com.intellij.ide.util.TipDialog" timestamp="1596339432040">
+    <state x="668" y="349" width="835" height="342" key="com.intellij.ide.util.TipDialog" timestamp="1597110630892">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="668" y="349" width="835" height="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596339432040" />
+    <state x="668" y="349" width="835" height="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597110630892" />
     <state x="1297" y="704" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1593340219832">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -233,14 +229,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="771" y="440" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591768276740" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1596342938231">
+    <state x="616" y="240" key="run.anything.popup" timestamp="1596877985901">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1596342938231" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1594826358911">
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1596877985901" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1596975768068">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594826358911" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1596975768068" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DailyPrac/AddStrings.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JavaTest$RandomSeq.ic" NAME="RandomSeq Coverage Results" MODIFIED="1587632516451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
